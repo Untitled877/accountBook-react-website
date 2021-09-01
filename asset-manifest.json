@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/accountBook-react-website/static/css/main.62931bf4.chunk.css",
+    "main.js": "/accountBook-react-website/static/js/main.cd1e585f.chunk.js",
+    "main.js.map": "/accountBook-react-website/static/js/main.cd1e585f.chunk.js.map",
+    "runtime-main.js": "/accountBook-react-website/static/js/runtime-main.83149cb8.js",
+    "runtime-main.js.map": "/accountBook-react-website/static/js/runtime-main.83149cb8.js.map",
+    "static/css/2.b346e709.chunk.css": "/accountBook-react-website/static/css/2.b346e709.chunk.css",
+    "static/js/2.36db974f.chunk.js": "/accountBook-react-website/static/js/2.36db974f.chunk.js",
+    "static/js/2.36db974f.chunk.js.map": "/accountBook-react-website/static/js/2.36db974f.chunk.js.map",
+    "index.html": "/accountBook-react-website/index.html",
+    "static/css/2.b346e709.chunk.css.map": "/accountBook-react-website/static/css/2.b346e709.chunk.css.map",
+    "static/css/main.62931bf4.chunk.css.map": "/accountBook-react-website/static/css/main.62931bf4.chunk.css.map",
+    "static/js/2.36db974f.chunk.js.LICENSE.txt": "/accountBook-react-website/static/js/2.36db974f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/accountBook-react-website/static/media/element-icons.da1319c2.woff",
+    "static/media/index.scss": "/accountBook-react-website/static/media/zongyi.5d99c964.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83149cb8.js",
+    "static/css/2.b346e709.chunk.css",
+    "static/js/2.36db974f.chunk.js",
+    "static/css/main.62931bf4.chunk.css",
+    "static/js/main.cd1e585f.chunk.js"
+  ]
+}
